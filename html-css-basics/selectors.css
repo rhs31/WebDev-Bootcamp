@@ -1,0 +1,46 @@
+/*https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048*/
+
+/*Element*/
+li
+{
+
+}
+/*class*/
+.hello
+{
+
+}
+/*id*/
+#name
+{
+
+}
+/*Star*/
+* 
+{
+
+}
+/*Descendant Selector*/
+li a
+{
+	color: red;
+}
+/*Adjacent Selector*/
+h4 + ul
+{
+	border: 4px solid red;
+}
+/*Attribute Selector*/
+a[href="google.com"]
+{
+
+}
+input[type="text"]
+{
+	background: blue;
+}
+/*nth of type*/
+ul: nth-of-type(even)
+{
+	background: purple;
+} 

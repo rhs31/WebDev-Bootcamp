@@ -1,0 +1,55 @@
+body
+{
+	/*background: url("http://www.bluevistavilla.com/img/index/PoolAtDusk.jpg");*/
+	background-size: cover;
+	padding-top: 0.2%;
+	/*background-position: center;*/
+}
+html
+{
+	height: 100%;
+}
+h1, h3, .thirdCaption 
+{ 
+	display:inline;
+}
+.navbar 
+	{ 
+		margin-bottom: 0 
+	}
+.navbar-inverse
+{
+	background: rgba(17,17,17,0.65);
+}
+.navbar-inverse .navbar-nav>li>a /*to color the anchors on the navbar, we need to be specific*/
+{
+	color: white;
+	font-size: 1.3em;
+}
+.navbar-inverse .navbar-brand
+{
+	color: white;
+}
+.text-center
+{
+	text-align: center;
+}
+
+.fill
+{
+	width: 100%;
+}
+.block
+{
+	max-width: 70em;
+}
+/*center navbar*/
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}

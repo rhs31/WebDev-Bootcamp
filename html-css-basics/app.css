@@ -1,0 +1,23 @@
+h1 
+{
+	color: #FF0000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px dashed rgb(255, 100, 80);
+}
+li
+{
+	color : rgba(11, 99, 150, .5);
+}
+h4
+{
+	background: rgb(255, 100, 80);
+}
+body
+{
+	background: pink;
+	/*background: url(https://i.pinimg.com/originals/95/36/4a/95364ab18c1c0922bc1a121f99bb5266.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;*/
+}
