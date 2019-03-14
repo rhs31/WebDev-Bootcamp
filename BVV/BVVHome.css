@@ -41,3 +41,14 @@ h1, h3, .thirdCaption
 .navbar .navbar-collapse {
   text-align: center;
 }
+
+.navbar-toggle 
+{
+    float:none;
+    text-align: center;
+
+}   
+.navbar-header
+{
+    text-align:center;
+}
